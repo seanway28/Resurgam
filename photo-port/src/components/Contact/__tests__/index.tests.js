@@ -6,7 +6,7 @@ import Contact from '..';
 
 afterEach(cleanup);
 
-describe('Cpntact component renders', () => {
+describe('Contact component renders', () => {
     it('renders', () => {
         render(<Contact />);
 });
